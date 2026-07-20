@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "url": "https://github.com/revage-staff-mod/revage-staff-releases/releases/latest",
-  "changelog": "fix(ci): drop hardcoded org.gradle.java.home, use Java toolchain The pinned Windows JDK path failed on the Linux runner. Toolchain lets any machine/CI resolve JDK 21; added --stacktrace to the build steps."
+  "changelog": "ci(release): commit version.json under the maintainer, not a bot name"
 }
