@@ -1,5 +1,0 @@
-{
-  "version": "1.1.2",
-  "url": "https://github.com/revage-staff-mod/revage-staff-releases/releases/latest",
-  "changelog": "ci(release): commit version.json under the maintainer, not a bot name"
-}
